@@ -11,7 +11,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 # 📂 ឯកសារសម្រាប់ User-Agent
 USER_AGENT_FILES = [
     Path(__file__).parent / 'HanX.txt',
-    Path(__file__).parent / 'ua.txt'
+    Path(__file__).parent / 'proxy.txt'
 ]
 
 # 📥 អាន User-Agent ពីឯកសារ
